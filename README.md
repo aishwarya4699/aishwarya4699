@@ -54,13 +54,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwarya4699&show_icons=true&theme=default" />
-</p>
-
----
-
 🌟 Open to **Data Science**, **Software Engineering**, **Data Engineer** roles  
 🤝 Let’s connect and build something impactful!
