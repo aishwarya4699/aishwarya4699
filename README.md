@@ -12,10 +12,13 @@
 
 ## 🚀 About Me
 
-🎓 Master's in Information Systems Management (Business Intelligence & Data Analytics) from **Carnegie Mellon University**  
-💼 2+ years at **Oracle** as a Software Engineer (Data & Cloud Focus)  
-📊 Former Data Scientist Intern at DealMate – delivered predictive insights and dashboards  
-🧠 Passionate about solving real-world problems using **ML, software engineering, and cloud tools**
+## 🚀 About Me
+
+🎓 Graduated from **Carnegie Mellon University** with a **Master’s in Information Systems Management**, specializing in **Data Science**  
+🎓 Bachelor's in **Computer Science** with a Specialization in **Data Science** from **PES University**  
+💼 Experience as a **Software/Data Engineer** at **Oracle**, focused on data and cloud technologies  
+📊 Worked as a **Data Scientist Intern** at **DealMate**, delivering predictive insights and dashboards  
+🧠 Passionate about solving real-world problems using **machine learning**, **software engineering**, and **cloud tools**
 
 ---
 
