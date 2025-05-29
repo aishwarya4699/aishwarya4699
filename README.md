@@ -69,13 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya4699&layout=compact&theme=default" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aishwarya4699&theme=flat&column=7" />
-</p>
 
 ---
 
