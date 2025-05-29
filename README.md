@@ -53,7 +53,6 @@
 - Applied Zero-DCE for enhancement + YOLOv3 for detection using PyTorch  
 - Ranked among **Top 3** in Intel's Vision Challenge
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -64,6 +63,21 @@
 
 ---
 
+## 📌 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya4699&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aishwarya4699&theme=flat&column=7" />
+</p>
+
+---
 
 🌟 Open to **Data Science**, **Software Engineering**, **Data Engineer** roles  
 🤝 Let’s connect and build something impactful!
