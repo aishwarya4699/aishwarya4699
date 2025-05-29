@@ -12,8 +12,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 🎓 Graduated from **Carnegie Mellon University** with a **Master’s in Information Systems Management**, specializing in **Data Science**  
 🎓 Bachelor's in **Computer Science** with a Specialization in **Data Science** from **PES University**  
 💼 Experience as a **Software/Data Engineer** at **Oracle**, focused on data and cloud technologies  
