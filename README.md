@@ -16,7 +16,7 @@
 🎓 Bachelor's in **Computer Science** with a Specialization in **Data Science** from **PES University**  
 💼 Experience as a **Software/Data Engineer** at **Oracle**, focused on data and cloud technologies  
 📊 Worked as a **Data Scientist Intern** at **DealMate**, delivering predictive insights and dashboards  
-🧠 Passionate about solving real-world problems using **machine learning**, **software engineering**, and **cloud tools**
+🧠 Passionate about solving real-world problems using **data science**, **machine learning** and **AI**
 
 ---
 
