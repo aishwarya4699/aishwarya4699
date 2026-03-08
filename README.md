@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aishwarya Pramod</h1>
 <p align="center">
-  Data Scientist | Data Engineer | Software Engineer
+  Data Scientist | AI Engineer | Software Engineer
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/aishwarya-pramod">LinkedIn</a> • 
@@ -14,8 +14,8 @@
 
 🎓 Graduated from **Carnegie Mellon University** with a **Master’s in Information Systems Management**, specializing in **Data Science**  
 🎓 Bachelor's in **Computer Science** with a Specialization in **Data Science** from **PES University**  
-💼 Experience as a **Software/Data Engineer** at **Oracle**, focused on data and cloud technologies  
-📊 Worked as a **Data Scientist Intern** at **DealMate**, delivering predictive insights and dashboards  
+💼 Experience in **Data** at **Oracle**, focused on data and cloud technologies  
+📊 Work as a **Data Scientist, AI Engineer** delivering predictive insights and dashboards  
 🧠 Passionate about solving real-world problems using **data science**, **machine learning** and **AI**
 
 ---
@@ -25,7 +25,7 @@
 **Languages:** Python, SQL, Java, C, C++, R, HTML, CSS  
 **Tools & Frameworks:** PyTorch, Flask, Docker, Git, REST APIs, AWS, RabbitMQ, Postman  
 **Data Science:** Pandas, NumPy, Scikit-learn, Tableau, Power BI, EDA, Stats, Spark, Hadoop  
-**ML/AI:** Time Series Forecasting, NLP, Computer Vision, LSTM, SVM, Random Forest, Unsupervised & Supervised Learning  
+**ML/AI:** Time Series Forecasting, NLP, LSTM, SVM, Random Forest, Unsupervised & Supervised Learning, LLMs, RAG  
 **Database Technologies:** Oracle, PostgreSQL, MySQL, MongoDB, Redis  
 **Concepts:** Distributed Systems, Cloud Computing, Networking, OS, OOP  
 **Soft Skills:** Teamwork, Communication, Leadership, Attention to Detail, Innovation
