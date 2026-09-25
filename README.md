@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aishwarya Pramod</h1>
 <p align="center">
-  Data Scientist | AI Engineer | Software Engineer
+  Data Scientist | AI Engineer | Building AI Agents
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/aishwarya-pramod">LinkedIn</a> • 
@@ -31,6 +31,10 @@
 **Concepts:** Distributed Systems, Cloud Computing, Networking, OS, OOP  
 **Soft Skills:** Teamwork, Communication, Leadership, Attention to Detail, Innovation
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,html,css,pytorch,tensorflow,flask,fastapi,docker,git,aws,postgres,mysql,mongodb,redis" />
+</p>
+
 ---
 
 ## 🔨 Projects
@@ -59,12 +63,6 @@
 ### 🌃 [Object Detection in Low Light](https://github.com/aishwarya4699/Object-Detection-in-Night-Light-Conditions)
 - Applied Zero-DCE for enhancement + YOLOv3 for detection using PyTorch  
 - Ranked among **Top 3** in Intel's Vision Challenge
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya4699&layout=compact&theme=default" />
-</p>
 
 ---
 
