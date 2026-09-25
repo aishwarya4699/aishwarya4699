@@ -60,9 +60,7 @@
 - Applied Zero-DCE for enhancement + YOLOv3 for detection using PyTorch  
 - Ranked among **Top 3** in Intel's Vision Challenge
 
----
 
-## 📌 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya4699&layout=compact&theme=default" />
